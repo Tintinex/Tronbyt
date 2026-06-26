@@ -2,7 +2,7 @@
 Applet: CTA Wilson Trains
 Summary: Red & Purple arrivals
 Description: Live CTA Train Tracker arrival times for the Red and Purple lines at the Wilson stop (Chicago).
-Author: migueltorres77
+Author: tintinex
 """
 
 load("encoding/json.star", "json")
